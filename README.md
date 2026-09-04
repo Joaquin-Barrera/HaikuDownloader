@@ -5,9 +5,9 @@ A simple, native GUI for downloading YouTube videos and audio on Haiku OS.
 I wrote this because I wanted a way to use yt-dlp without having to jump into the Terminal every time. It’s written in C++ using the native BeAPI, so it’s fast, lightweight, and looks right at home on the desktop.
 What it does:
 
-    Drag and Drop: Just drag a link from WebPositive (or any browser) into the URL field.
+    Drag and Drop: Just drag / copy & paste a link from WebPositive (or any browser) into the URL field.
 
-    Video & Audio: Pick between MP4 video or audio formats like MP3 and FLAC.
+    Video & Audio: Pick between different audio and video formats before downloading your file.
 
     Quality Control: Select your resolution (from 144p up to 1080p).
 
@@ -33,4 +33,4 @@ g++ -o HaikuDownloader Main.cpp App.cpp MainWindow.cpp -lbe -ltracker -lroot -ll
 
 License:
 
-MIT. Honestly, do whatever you want with 
+MIT. Do what you please.
