@@ -1,4 +1,4 @@
-HaikuDownloader
+# HaikuDownloader
 
 A simple, native GUI for downloading YouTube videos and audio on Haiku OS.
 
